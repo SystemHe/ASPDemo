@@ -1,0 +1,26 @@
+﻿body {
+}
+.add
+{
+    margin:10px;
+    padding:10px;
+    border:2px solid red;
+    font-size:15px;
+    color:green;
+}
+.update
+{
+    margin:10px;
+    padding:10px;
+    border:2px solid red;
+    font-size:15px;
+    color:burlywood;
+}
+.delete
+{
+    margin:10px;
+    padding:10px;
+    border:2px solid red;
+    font-size:15px;
+    color:blue;
+}
